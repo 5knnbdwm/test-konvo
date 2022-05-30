@@ -5,7 +5,7 @@
 nvm use
 npm install
 ```
-uses node version v16.14.0
+uses node version `v16.14.0`
 
 ### Compiles and hot-reloads for development
 ```
